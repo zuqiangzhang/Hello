@@ -19,6 +19,7 @@
     },
 
     "searchPaths" : [
-        "Images/"
+        "Images/",
+        "last_ui/"
     ]
 }
