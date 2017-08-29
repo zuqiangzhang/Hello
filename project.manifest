@@ -11,19 +11,6 @@
         },
         "Images/icon.png" : {
             "md5" : "..."
-        },
-        "Images/button.png" : {
-            "md5" : "..."
-        },
-        "src/game.lua" : {
-            "md5" : "..."
-        },
-        "src/layer.lua" : {
-            "md5" : "..."
-        },
-        "compressed.zip" : {
-            "md5" : "...",
-            "compressed" : true
         }
     },
 
