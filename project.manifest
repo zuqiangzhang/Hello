@@ -23,8 +23,5 @@
     },
 
     "searchPaths" : [
-        "Images/",
-        "last_ui/",
-        "layout/"
     ]
 }
