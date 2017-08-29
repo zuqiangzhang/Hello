@@ -11,6 +11,10 @@
         },
         "Images/icon.png" : {
             "md5" : "ee"
+        },
+        "last_ui.zip" : {
+            "md5" : "ee",
+            "compressed" : true
         }
     },
 
