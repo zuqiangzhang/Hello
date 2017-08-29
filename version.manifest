@@ -2,6 +2,6 @@
     "packageUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/",
     "remoteVersionUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/version.manifest",
     "remoteManifestUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/project.manifest",
-    "version" : "1.0.3",
+    "version" : "1.0.4",
     "engineVersion" : "Cocos2d-JS v3.0 RC0",
 }
