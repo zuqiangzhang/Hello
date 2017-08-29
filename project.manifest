@@ -2,15 +2,15 @@
     "packageUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/",
     "remoteVersionUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/version.manifest",
     "remoteManifestUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/project.manifest",
-    "version" : "1.0.5",
+    "version" : "1.0.6",
     "engineVersion" : "Cocos2d-JS v3.0 RC0",
 
     "assets" : {
         "Images/background.png" : {
-            "md5" : "bb"
+            "md5" : "dd"
         },
         "Images/icon.png" : {
-            "md5" : "aa"
+            "md5" : "ee"
         }
     },
 
