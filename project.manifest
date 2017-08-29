@@ -7,10 +7,10 @@
 
     "assets" : {
         "Images/background.png" : {
-            "md5" : "..."
+            "md5" : "bb"
         },
         "Images/icon.png" : {
-            "md5" : "..."
+            "md5" : "aa"
         }
     },
 
