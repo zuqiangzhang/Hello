@@ -24,6 +24,7 @@
 
     "searchPaths" : [
         "Images/",
-        "last_ui/"
+        "last_ui/",
+        "layout/"
     ]
 }
