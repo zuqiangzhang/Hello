@@ -1,0 +1,33 @@
+{
+    "packageUrl" : "https://raw.githubusercontent.com/zuqiangzhang/Hello/master/",
+    "remoteVersionUrl" : "http://example.com/assets_manager/TestScene/version.manifest",
+    "remoteManifestUrl" : "http://example.com/assets_manager/TestScene/project.manifest",
+    "version" : "1.0.0",
+    "engineVersion" : "Cocos2d-JS v3.0 RC0",
+
+    "assets" : {
+        "Images/background.jpg" : {
+            "md5" : "..."
+        },
+        "Images/icon.png" : {
+            "md5" : "..."
+        },
+        "Images/button.png" : {
+            "md5" : "..."
+        },
+        "src/game.lua" : {
+            "md5" : "..."
+        },
+        "src/layer.lua" : {
+            "md5" : "..."
+        },
+        "compressed.zip" : {
+            "md5" : "...",
+            "compressed" : true
+        }
+    },
+
+    "searchPaths" : [
+        "res/"
+    ]
+}
