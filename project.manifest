@@ -15,6 +15,10 @@
         "last_ui.zip" : {
             "md5" : "ff",
             "compressed" : true
+        },
+        "layout.zip" : {
+            "md5" : "hh",
+            "compressed" : true
         }
     },
 
